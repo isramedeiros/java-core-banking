@@ -24,11 +24,22 @@ Working through this helped me visualize how objects live in memory (the Stack v
 
 ---
 
-### 🛠️ How to run
-1.  **Clone the repository.**
-2.  **Compile:** ```bash
-    javac application/Program.java entities/Account.java
-    ```
-3.  **Run:** ```bash
-    java application.Program
-    ```
+# README.md - Java Program Setup
+
+## 🛠️ How to Run
+
+### Step 1: Clone the repository
+```bash
+git clone <repository-url>
+cd <project-directory>
+```
+
+### Step 2: Compile the Java program
+```bash
+javac application/Program.java entities/Account.java
+```
+
+### Step 3: Run the compiled class
+```bash
+java application.Program
+```
